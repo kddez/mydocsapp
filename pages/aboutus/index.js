@@ -1,5 +1,5 @@
 // Define a página de reload
-setPage('send');
+setPage('aboutus');
 
 // Título da página
-setTitle('Enviar documento');
+setTitle('Sobre agente');

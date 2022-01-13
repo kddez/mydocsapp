@@ -1,1 +1,5 @@
-console.log('Esta é o about');
+// Define a página de reload
+setPage('about');
+
+// Título da página
+setTitle('Sobre o app');
