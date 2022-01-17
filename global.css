@@ -2,7 +2,7 @@
  * Define algumas configurações iniciais para o app.
  */
 
- :root {
+:root {
     --font-family: helvetica;
     --font-size: 16px;
     --bg-color: rgb(0, 14, 36);
@@ -318,6 +318,13 @@ div.footer-bottom a i {
     padding: 0 1rem;
     border-top: 3px dotted grey;
     background: rgb(226, 252, 255);
+}
+
+.main>article>h2:first-child {
+    margin-top: 0;
+    padding: 1rem;
+    background: #94ecfc;
+    border-radius: 0 0 .4rem .4rem;
 }
 
 @media (min-width: 768px) {
