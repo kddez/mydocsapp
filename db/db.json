@@ -1,85 +1,51 @@
 {
-  "contacts": [
+  "contacts": [],
+  "config": {
+    "clientWidth": "768",
+    "appName": "My.Docs.App",
+    "appSlogan": "Seus documentos em nossas mãos.",
+    "separator": ".:.",
+    "appLogo": "assets/img/logo_64.png",
+    "copyright": "2021 Joca da Silva"
+  },
+  "social": [
     {
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "subject": "Teste do Joca",
-      "message": "Mesagem do Joca",
-      "date": "2022-01-17 14:49:40",
-      "status": "recebido",
-      "id": 1
+      "name": "(21) 9876-54321",
+      "href": "https://wa.me/5521987654321",
+      "icon": "fa-whatsapp-square",
+      "nofooter": true
     },
     {
-      "name": "George",
-      "email": "George@silva.com",
-      "subject": "Teste do George",
-      "message": "Mesagem do George",
-      "date": "2022-01-17 14:50:13",
-      "status": "recebido",
-      "id": 2
+      "name": "WhatsApp",
+      "href": "https://wa.me/5521987654321",
+      "icon": "fa-whatsapp-square",
+      "nofooter": true
     },
     {
-      "name": "Fulano do Mandela",
-      "email": "Fulano@silva.com",
-      "subject": "Teste do Fulano",
-      "message": "Mesagem do Fulano",
-      "date": "2022-01-17 14:50:30",
-      "status": "recebido",
-      "id": 3
+      "name": "E-mail",
+      "href": "maito://contato@mydocsapp.com",
+      "icon": "fa-envelope-square",
+      "nofooter": true
     },
     {
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "subject": "Teste do Joca",
-      "message": "Mesagem do Joca",
-      "date": "2022-01-17 15:33:38",
-      "status": "recebido",
-      "id": 4
+      "name": "GitHub",
+      "href": "https://github.com/Luferat",
+      "icon": "fa-github-square"
     },
     {
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "subject": "Teste do Joca",
-      "message": "Mesagem do Joca",
-      "date": "2022-01-17 15:33:42",
-      "status": "recebido",
-      "id": 5
+      "name": "LinkedIn",
+      "href": "https://linkedin.com/Luferat",
+      "icon": "fa-linkedin"
     },
     {
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "subject": "Teste do Joca",
-      "message": "Mesagem do Joca",
-      "date": "2022-01-17 15:34:00",
-      "status": "recebido",
-      "id": 6
+      "name": "Facebook",
+      "href": "https://facebook.com/Luferat",
+      "icon": "fa-facebook-square"
     },
     {
-      "name": "Joca da Silva",
-      "email": "joca@silva.com",
-      "subject": "Teste do Joca",
-      "message": "Mensagem do Joca",
-      "date": "2022-01-17 16:42:26",
-      "status": "recebido",
-      "id": 7
-    },
-    {
-      "name": "aaaa",
-      "email": "sabbath@gmail.com",
-      "subject": "jackson",
-      "message": "asdwad",
-      "date": "2022-01-17 16:43:47",
-      "status": "recebido",
-      "id": 8
-    },
-    {
-      "name": "dw",
-      "email": "a@a",
-      "subject": "aaaaa",
-      "message": "a<br>a<br>a<br>a<br>a<br>a<br>a<br>a<br>a<br>a<br>",
-      "date": "2022-01-17 16:44:34",
-      "status": "recebido",
-      "id": 9
+      "name": "Instagram",
+      "href": "https://instagram.com/Luferat",
+      "icon": "fa-instagram-square"
     }
   ]
 }
